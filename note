@@ -1,0 +1,1 @@
+pyinstaller -i='MOYU_MCL.ico' -F -c main.py

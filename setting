@@ -1,0 +1,8 @@
+{\
+0:{\
+'player_name' : '',
+	'java_ram':'2G',
+	'version':'moyuland', # moyuland, moyuland_mod
+	'core_version':'fabric-loader-0.14.7-1.18.2',
+	},
+}
